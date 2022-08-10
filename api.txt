@@ -1,0 +1,13 @@
+https://api.themoviedb.org/3/movie/550?api_key=ec0d0ac1a02925c493e247d245274ced
+
+api key 
+
+ec0d0ac1a02925c493e247d245274ced
+
+
+search by genre 
+
+ https://api.themoviedb.org/3/genre/movie/list?api_key=<<api_key>>&language=en-US
+
+example 
+https://api.themoviedb.org/3/action/movie/list?api_key=ec0d0ac1a02925c493e247d245274ced&language=en-US
