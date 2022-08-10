@@ -4,6 +4,12 @@
   padding-bottom: 20;
 }
 
+h1,
+span,
+p {
+  color: white;
+}
+
 body {
   font-family: sans-serif;
   color: white;
